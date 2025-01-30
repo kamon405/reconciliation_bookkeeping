@@ -27,7 +27,7 @@ Additionally, for OCR functionality:
 1. **Launch the Application**:
    - Run the script using Python:
      ```sh
-     python script.py
+     python reconcil-bookkeep.py
      ```
 
 2. **Select QuickBooks Files**:
